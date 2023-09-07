@@ -1,2 +1,2 @@
 start:
-	bundle exec jekyll serve # 로컬 서버
+	bundle exec jekyll serve
